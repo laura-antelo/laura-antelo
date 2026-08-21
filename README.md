@@ -24,22 +24,6 @@ Actualmente busco seguir creciendo profesionalmente como desarrolladora iOS y pa
 
 También he trabajado con otras tecnologías como Java, Spring Boot, Python, HTML, CSS y Figma durante mi formación universitaria.
 
-## Proyectos destacados
-
-### [Rick and Morty iOS App](https://github.com/laura-antelo/app-rick-morty)
-
-Aplicación nativa para iOS desarrollada con Swift y UIKit. Incluye consulta de diferentes APIs, navegación entre personajes, ubicaciones y episodios, sistema de favoritos, caché, búsqueda, contenido compartido, varios idiomas y pruebas.
-
-El desarrollo está organizado mediante requisitos, Issues, ramas y Pull Requests, aplicando una arquitectura por capas y separación de responsabilidades.
-
-### [Pokédex](https://github.com/laura-antelo/pokedex)
-
-Aplicación iOS que permite consultar y buscar Pokémon, acceder a su información detallada y visualizar una galería de imágenes con zoom.
-
-### [Filter Gallery](https://github.com/laura-antelo/filter-gallery)
-
-Aplicación iOS centrada en la visualización de imágenes y la aplicación de distintos filtros.
-
 ## Contacto
 
 Puedes encontrar más información sobre mi experiencia y formación en [LinkedIn](https://www.linkedin.com/in/lauraantelogonzalez/).
