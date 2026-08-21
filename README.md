@@ -1,4 +1,8 @@
-# ¡Hola! Soy Laura 👋
+<p align="center">
+  <img src="./assets/github-banner.png"
+       alt="Laura Antelo - iOS Developer"
+       width="100%">
+</p>
 
 Soy graduada en Ingeniería Informática por la Universidade de Santiago de Compostela y actualmente trabajo como desarrolladora iOS en formación en Plexus Tech, donde también realicé mis prácticas universitarias.
 
